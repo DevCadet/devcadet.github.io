@@ -1,0 +1,6 @@
+{
+  "name": "Devcadet.GitHub.io",
+  "tagline": "DevCadet main site",
+  "body": "DevCadet is your new online computer science classroom. It provides useful tools that augment an introductory Java computer science curriculum, such as the one provided by Microsoft Citizenship's [Technology Education and Literacy in Schools (TEALS)][teals] program. DevCadet's key features include:\r\n\r\n  * A **Java autograder**, which automatically scores student responses to practice problems.\r\n\r\n  * A collection of **practice problems** that help students refine their knowledge of Java basics.\r\n\r\n  * An **online code editor**, which makes it easy for students to try out ideas and visualize the execution of programs. The editor is inspired by the [Java Visualizer][java-visualizer].\r\n\r\nDevCadet is rolling out in pieces over the next few months. Watch this site to see what we come up with.\r\n\r\n[teals]: http://tealsk12.org\r\n[java-visualizer]: http://cscircles.cemc.uwaterloo.ca/java_visualize/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
